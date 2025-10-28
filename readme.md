@@ -7,13 +7,27 @@
 [![Status](https://img.shields.io/badge/status-prototype-yellow)]()
 [![Impact](https://img.shields.io/badge/savings-$60M%2Fyear-green)]()
 [![Privacy](https://img.shields.io/badge/privacy-synthetic_data-blue)]()
-[![Star this repo](https://img.shields.io/github/stars/team10/agentic-ehr?style=social)](https://github.com/jliu678/AI-x-Bio-Hackathon-Evolved-Boston-2025)
+[![Star this repo](https://img.shields.io/github/stars/jliu678/AI-x-Bio-Hackathon-Evolved-Boston-2025?style=social)](https://github.com/jliu678/AI-x-Bio-Hackathon-Evolved-Boston-2025)
 
 </div>
 
 
 ## 🚀 Try Our Live Multimodal Agentic EHR Co-Pilot
 > **Please visit our live web application to experience the Multimodal Agentic EHR Co-Pilot in action: [Try Our Live EHR Co-Pilot](https://doccopilot-jggvbb9h.manus.space)**
+
+> Note: All functionalities have been tested and are fully usable. However, please bear with occasional website instability until we secure further funding to deploy it on paid cloud services.
+
+
+## 📑 Table of Contents
+
+- [🚨 The Crisis](#-1-the-crisis) — The $30B problem in healthcare
+- [💡 The Solution](#-2-the-solution) — AI-powered clinical co-pilot
+- [⚡ Execution](#-3-our-top-tier-execution-turn-concept-to-60m-impact-in-7-hours) — Built in 7 hours, $60M impact
+- [🌟 Product Demo](#-4-vignettes) — See it in action
+- [📈 Roadmap](#-roadmap--next-steps-if-further-funded) — What's next
+- [❓ FAQ](#-faq) — Common questions
+- [📬 Contact](#-contact-and-demo-request) — Get in touch
+- [🙏 Acknowledgments](#-acknowledgments)
 
 
 ## 🚨 1. The Crisis
@@ -102,9 +116,9 @@ An **AI-powered clinical co-pilot** that transforms EHR chaos into a unified, in
 - ✅ **Seconds** to assess priority
 - To be done: Physician approves actions with one click
 
-## 4. Vignettes
+## 🌟 4. Vignettes
 ### Interface
-- The first page shows the overview of the agentic EHR Co-Pilot.
+- The first interface page of our [Multimodal Agentic EHR Co-Pilot](https://doccopilot-jggvbb9h.manus.space) shows the overview of the agentic EHR Co-Pilot.
 <p align="center">
   <img src="src/page1.png" alt="Agentic EHR Co-Pilot" width="700"/>
   <br>
@@ -171,7 +185,7 @@ A: Entirely synthetic, simulated multimodal EHRs generated to mirror real-world 
 ---
 
 
-### 📬 Contact and Demo Request
+## 📬 Contact and Demo Request
 
 - **Email**: [Cong Wang](#cwang75@mgh.harvard.edu)
 - **Email**: [Jiyuan (Jay) Liu](#jliu78mghharvardedu@gmail.com)
