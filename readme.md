@@ -66,6 +66,7 @@ An **AI-powered clinical co-pilot** that transforms EHR chaos into a unified, in
 - **🔍 Verifiable Reasoning** — all decisions have trackable, auditable reference data
 
 
+<div align="center">
 ```
 ┌─────────────────────────────────────────────────────────┐
 │              EHR Systems (FHIR/HL7)                     │
@@ -89,6 +90,8 @@ An **AI-powered clinical co-pilot** that transforms EHR chaos into a unified, in
           │  One-Click Approvals  │
           └───────────────────────┘
 ```
+
+</div>
 
 
 ---
