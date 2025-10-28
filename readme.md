@@ -15,7 +15,7 @@
 ## 🚀 Try Our Live Multimodal Agentic EHR Co-Pilot
 **Please visit our live web application to experience the Multimodal Agentic EHR Co-Pilot in action: [Try Our Live EHR Co-Pilot](https://doccopilot-jggvbb9h.manus.space)**
 
-> Note: All functionalities have been tested and are fully usable. However, please bear with occasional website instability until we secure further funding to deploy it on paid cloud services.
+> Note: All functionalities have been tested and are fully usable. However, please bear with occasional website instability until we secure further funding to deploy it on paid cloud services. And refreshing the page will most likely overcome the instability issue.
 
 
 ## 📑 Table of Contents
