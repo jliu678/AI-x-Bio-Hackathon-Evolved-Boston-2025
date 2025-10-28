@@ -67,30 +67,29 @@ An **AI-powered clinical co-pilot** that transforms EHR chaos into a unified, in
 
 
 <div align="center">
-```
+<pre>
 ┌─────────────────────────────────────────────────────────┐
 │              EHR Systems (FHIR/HL7)                     │
 │     (Text Records • Lab Results • Imaging • Notes)      │
-└────────────────────┬────────────────────────────────────┘
-                     │
+└────────────────────────────────┬───────────────────────┘
+         │
           ┌──────────▼───────────┐
           │  Multimodal Ingestion │
           │  & AI Processing      │
           └──────────┬───────────┘
-                     │
+         │
           ┌──────────▼───────────┐
           │   Agentic AI Engine   │
           │  • Priority Scoring   │
           │  • Action Generation  │
           │  • Reasoning Chains   │
           └──────────┬───────────┘
-                     │
+         │
           ┌──────────▼───────────┐
           │ Physician Dashboard   │
           │  One-Click Approvals  │
           └───────────────────────┘
-```
-
+</pre>
 </div>
 
 
